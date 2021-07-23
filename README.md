@@ -1,1 +1,1 @@
-# Blogum
+# myBlog
